@@ -34,6 +34,13 @@ This is like a side-quest for something big.
  - Perform webscraping
  - Summarize the extracted text and display
 
+### 4. Contents of <a href="https://github.com/PALLADIUM26/skyScraper/blob/main/websraper.py">websraper.py</a>
+ - Import libraries
+ - Open webpage in default browser
+ - Wait so that webpage is fully loaded
+ - Use shortkeys for select all and copy automatically
+ - Store copied content from clipboard in a variable
+
 <br>
 
 ## Libraries required
