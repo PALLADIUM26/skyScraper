@@ -1,0 +1,11 @@
+googlesearch-python
+google-search
+requests
+beautifulsoup4
+google-generativeai
+ipython
+textwrap3
+urllib3
+webbrowser
+PyAutoGUI
+pyperclip
