@@ -43,15 +43,10 @@ This is like a side-quest for something big.
 
 <br>
 
-## Libraries required
- - `googlesearch`
- - `requests`
- - `BeautifulSoup`
- - `google-generativeai`
- - `IPython.display`
- - `textwrap`
- - `pathlib`
-
+## Import Libraries:
+```
+pip install -r requirements.txt
+```
 <br>
 
 ## `.py` files are also provided
