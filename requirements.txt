@@ -6,6 +6,7 @@ google-generativeai
 ipython
 textwrap3
 urllib3
+pathlib
 webbrowser
 PyAutoGUI
 pyperclip
